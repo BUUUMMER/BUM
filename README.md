@@ -1,0 +1,5 @@
+-creating a token
+-forming a community
+-launching a dapp
+-expanding the community
+-scaling the project
